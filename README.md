@@ -1,5 +1,5 @@
 <h2 align="center">Hey there, I'm <span style="color:#6A5ACD">Vimal</span> 👋</h2>
-<h4 align="center">Full-Stack Developer • System Design Learner • Backend in Java ☕</h4>
+<h4 align="center">Full-Stack Developer • System Design Learner • Backend in Java / TypeScript☕</h4>
 
 ---
 
