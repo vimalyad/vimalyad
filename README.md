@@ -13,7 +13,7 @@ When not coding, I’m either watching anime 🎌, playing chess ♟️, or expl
 
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+<!-- <h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
 
@@ -68,7 +68,7 @@ When not coding, I’m either watching anime 🎌, playing chess ♟️, or expl
   </tr>
 </table>
 
-</div>
+</div> -->
 
 ---
 
