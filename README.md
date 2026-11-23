@@ -1,117 +1,64 @@
-<h2 align="center">Hey there, I'm <span style="color:#6A5ACD">Vimal</span> 👋</h2>
-<h4 align="center">Full-Stack Developer • System Design Learner • Backend in Java / TypeScript☕</h4>
-
----
-
-<img align="right" height="240" width="240" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" />
-
-<p align="left">
-I'm a developer passionate about designing and building reliable systems, exploring backend architecture, and solving DSA problems for fun.  
-I enjoy creating full-stack applications, optimizing APIs, and experimenting with modern web technologies.  
-When not coding, I’m either watching anime 🎌, playing chess ♟️, or exploring new dev tools.
+<p align="center">
+  <a href="https://vimalyad.github.io/">
+    <img src="assets/banner.svg" alt="Vimal Kumar Yadav: MTS Intern @ ArcFront, Backend & Systems Engineer" width="100%" />
+  </a>
 </p>
-
----
-
-<!-- <h3 align="center">💻 Tech Stack</h3>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left" valign="middle"><strong>🧠 Languages</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,cpp&theme=dark" alt="languages" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>⚙️ Backend & Frameworks</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&theme=dark" alt="backend" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>🎨 Frontend</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite&theme=dark" alt="frontend" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>🗄️ Databases</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark" alt="databases" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>☁️ DevOps & Hosting</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions&theme=dark" alt="devops" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>🧮 Data Science / ML</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv&theme=dark" alt="ml" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>🧰 Tools & IDEs</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,canva&theme=dark" alt="tools" />
-    </td>
-  </tr>
-</table>
-
-</div> -->
-
----
-
-<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="mailto:vimalyadavkr001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
-  <a href="https://linkedin.com/in/vimal-kumar-yadav-58a7a5316">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  <a href="https://leetcode.com/u/VimalYad_2907/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" height="28" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/vimalyad2907/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" height="28" />
-  </a>
-  <a href="https://instagram.com/vimalyad_2907">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-  </a>
+  <a href="https://vimalyad.github.io/"><img src="https://img.shields.io/badge/Portfolio-3D%20Grimoire-e8b55a?style=for-the-badge&labelColor=07060b" height="28" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/vimal-kumar-yadav-58a7a5316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/VimalYad_2907/"><img src="https://img.shields.io/badge/LeetCode-1000%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/vimalyad2907/"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%202-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="28" alt="GeeksforGeeks" /></a>
+  <a href="mailto:vimalyadavkr001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
 </p>
 
----
+### ✦ About
 
-<div align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=yamiSukehiro2907&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" /> -->
-  <img src="https://github.com/yamiSukehiro2907/github-stats/blob/master/stats.svg" alt="languages graph" />
+I'm a backend and systems engineer in Bengaluru. My favourite way to understand a system is to rebuild it.
 
-</div>
+- 🔭 **MTS Intern @ ArcFront**: shipping production RL training environments (full-stack clones of real platforms used to train frontier models) and an agentic platform that fixes QA-reported bugs, verifies each fix in a real browser and opens the PR.
+- 🧪 Previously: Playwright regression automation and NeetoCI pipelines at **Neeto (BigBinary)**; founding backend engineer at **Bricks Education**.
+- 🎓 Computer Science at **Scaler School of Technology** and **BITS Pilani**.
+- 🏆 Rank **158 / 15,000+** teams in the Meta × Hugging Face RL Hackathon.
 
----
+### ✦ Grimoires (things I built from scratch)
 
-<h3 align="center">🐍 Contribution Snake</h3>
+| Project | What it is |
+| --- | --- |
+| [**VersionDB**](https://github.com/vimalyad/version-db) | Zero-dependency relational database in Java: slotted pages, ARIES WAL recovery, PostgreSQL-style MVCC, B+Tree, cost-based optimizer. ~12× read throughput vs a lock-based baseline; 424 tests. |
+| [**CRDT-Native Relational Database**](https://github.com/vimalyad/udaan-relational-database) | Embedded SQL engine in Rust where peers write locally and converge through CRDT deltas without a coordinator. |
+| [**Typeahead**](https://github.com/vimalyad/typeahead) | Low-latency autocomplete: trie with precomputed top-K behind a consistent-hash ring; 99.8% cache hits at ~17K req/s (p95 ~20 ms). |
+| [**Distributed Cache**](https://github.com/vimalyad/distributed-cache) | Event-driven cache in Java with consistent hashing, pluggable eviction and request collapsing. |
+| [**Accura**](https://github.com/vimalyad/accura) | Model-agnostic, accuracy-first browser agent that refuses to claim unproven success; 130 tests. |
+| [**DocBuddy**](https://github.com/vimalyad/doc-buddy) | Full-stack RAG app for grounded conversations with your own documents. |
+
+> Every one of these is a floating tome in my [3D portfolio](https://vimalyad.github.io/), and most come with a live, interactive demo of how the system works.
+
+### ✦ Open source
+
+- [`meilisearch/meilisearch-java#906`](https://github.com/meilisearch/meilisearch-java/pull/906): Meilisearch 1.18 support (queryVector, index renaming). **Merged**
+- [`kornia/kornia#4455`](https://github.com/kornia/kornia/pull/4455): route MPS SVD/svdvals through CPU for large inputs. **Merged**
+- [`helm/helm#32705`](https://github.com/helm/helm/pull/32705) and [`kubernetes-sigs/kind#4275`](https://github.com/kubernetes-sigs/kind/pull/4275): open
+
+### ✦ Tools of the trade
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,rust,ts,py,cpp,go,spring,nodejs,fastapi,react,nextjs&theme=dark" alt="Languages and frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,kafka,docker,kubernetes,githubactions,gcp,linux&theme=dark" alt="Data and infrastructure" />
+</p>
+
+### ✦ Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vimalyad/github-stats/master/stats.svg" alt="GitHub statistics" />
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vimalyad/vimalyad/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vimalyad/vimalyad/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vimalyad/vimalyad/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
----
-
-<h4 align="center">💡 Curious? Check out my repos and let’s build something cool together 🚀</h4>
+<p align="center"><sub>✦ Open the grimoire at <a href="https://vimalyad.github.io/">vimalyad.github.io</a> ✦</sub></p>
