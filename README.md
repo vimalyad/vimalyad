@@ -17,7 +17,7 @@
 I'm a backend and systems engineer in Bengaluru. My favourite way to understand a system is to rebuild it.
 
 - 🔭 **MTS Intern @ ArcFront**: shipping production RL training environments (full-stack clones of real platforms used to train frontier models) and an agentic platform that fixes QA-reported bugs, verifies each fix in a real browser and opens the PR.
-- 🧪 Previously: Playwright regression automation and NeetoCI pipelines at **Neeto (BigBinary)**; founding backend engineer at **Bricks Education**.
+- 🧪 Previously: Playwright regression automation and NeetoCI pipelines at **Neeto (BigBinary)**; co-founder & CTO of **Bricks Education**.
 - 🎓 Computer Science at **Scaler School of Technology** and **BITS Pilani**.
 - 🏆 Rank **158 / 15,000+** teams in the Meta × Hugging Face RL Hackathon.
 
